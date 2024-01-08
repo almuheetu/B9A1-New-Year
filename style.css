@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -60,22 +61,24 @@
 }
 
 .categories-heading {
-    color: #F00;
-    text-align: center;
-    font-family: Inter;
-    font-size: 88px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
+	color: #F00;
+	text-align: center;
+	font-family: Inter;
+	font-size: 88px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 30px;
 }
 .categories-pera {
-    color: #F00;
-    text-align: center;
-    font-family: Inter;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
+	color: #F00;
+	text-align: center;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	margin-bottom: 10px;
 }
 .categories-head {
     color: #070211;
@@ -91,3 +94,7 @@
     height: 494.819px;
     flex-shrink: 0;
 } */
+.categories-content {
+	margin-top: 70px;
+	margin-bottom: 35px;
+}
