@@ -115,10 +115,47 @@
     top: 0px;
 }
 
-color: #FFF;
-font-family: Merriweather;
-font-size: 64px;
-font-style: normal;
-font-weight: 900;
-line-height: 88px; /* 137.5% */
-letter-spacing: 7.04px;
+.party-heading {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+}
+
+.party-para {
+	color: rgba(255, 255, 255, 0.80);
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 30px;
+	padding-top: 35px;
+}
+
+.party-button {
+	color: #FFF;
+	text-align: center;
+	font-family: Inter;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	text-transform: uppercase;
+	background: transparent;
+	border: navajowhite;
+	padding: 30px 30px;
+}
+.party-text {
+	text-align: left;
+	width: 700px;
+	padding-left: 125px;
+	padding-top: 124px;
+}
+.party-img {
+	padding-top: 100px;
+	padding-left: 70px;
+}
