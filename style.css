@@ -213,6 +213,11 @@
     color: #fff;
     font-weight: 500;
 }
+.contact-btn:hover {
+    background-color: #070211;
+    color: #fff;
+    font-weight: 500;
+}
 
 /* comeing-area */
 
